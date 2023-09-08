@@ -16,6 +16,9 @@
 .heading{
     text-transform: capitalize;
 }
+.box-name{
+    text-transform: capitalize;
+}
 .inner-boxes{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -36,9 +39,6 @@
 }
 .box-text span{
     font-weight: bold;
-}
-.box-name{
-    text-transform: capitalize;
 }
 iframe{
     width: 100%;
